@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/mi/Documents/GitHub/learnopengl/build",
+  "command": "/usr/bin/clang  -I/home/mi/Documents/GitHub/learnopengl/include -g -o CMakeFiles/glad.dir/src/glad.c.o -c /home/mi/Documents/GitHub/learnopengl/src/glad.c",
+  "file": "/home/mi/Documents/GitHub/learnopengl/src/glad.c",
+  "output": "CMakeFiles/glad.dir/src/glad.c.o"
+},
+{
+  "directory": "/home/mi/Documents/GitHub/learnopengl/build",
+  "command": "/usr/bin/clang++  -I/home/mi/Documents/GitHub/learnopengl/include -g -std=gnu++17 -o CMakeFiles/LearnOpenGL.dir/src/main.cpp.o -c /home/mi/Documents/GitHub/learnopengl/src/main.cpp",
+  "file": "/home/mi/Documents/GitHub/learnopengl/src/main.cpp",
+  "output": "CMakeFiles/LearnOpenGL.dir/src/main.cpp.o"
+}
+]

@@ -1,0 +1,4 @@
+/home/mi/Documents/GitHub/learnopengl/build/CMakeFiles/glad.dir
+/home/mi/Documents/GitHub/learnopengl/build/CMakeFiles/LearnOpenGL.dir
+/home/mi/Documents/GitHub/learnopengl/build/CMakeFiles/edit_cache.dir
+/home/mi/Documents/GitHub/learnopengl/build/CMakeFiles/rebuild_cache.dir
