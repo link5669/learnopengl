@@ -117,8 +117,6 @@ CMakeFiles/LearnOpenGL.dir/src/main.cpp.o
  /usr/include/c++/14/x86_64-redhat-linux/bits/gthr-default.h
  /usr/include/c++/14/x86_64-redhat-linux/bits/gthr.h
  /usr/include/c++/14/x86_64-redhat-linux/bits/os_defines.h
- /usr/include/GL/gl.h
- /usr/include/GL/glext.h
  /usr/include/GLFW/glfw3.h
  /usr/include/alloca.h
  /usr/include/asm-generic/errno-base.h

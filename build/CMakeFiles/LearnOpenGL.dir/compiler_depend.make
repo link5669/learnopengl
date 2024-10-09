@@ -116,8 +116,6 @@ CMakeFiles/LearnOpenGL.dir/src/main.cpp.o: /home/mi/Documents/GitHub/learnopengl
   /usr/include/c++/14/x86_64-redhat-linux/bits/gthr-default.h \
   /usr/include/c++/14/x86_64-redhat-linux/bits/gthr.h \
   /usr/include/c++/14/x86_64-redhat-linux/bits/os_defines.h \
-  /usr/include/GL/gl.h \
-  /usr/include/GL/glext.h \
   /usr/include/GLFW/glfw3.h \
   /usr/include/alloca.h \
   /usr/include/asm-generic/errno-base.h \
@@ -292,14 +290,6 @@ CMakeFiles/LearnOpenGL.dir/src/main.cpp.o: /home/mi/Documents/GitHub/learnopengl
 
 /usr/include/bits/floatn.h:
 
-/usr/include/bits/floatn-common.h:
-
-/usr/include/wctype.h:
-
-/usr/include/bits/timex.h:
-
-/usr/include/bits/errno.h:
-
 /usr/lib/clang/18/include/__stddef_null.h:
 
 /usr/include/c++/14/bits/range_access.h:
@@ -434,6 +424,8 @@ CMakeFiles/LearnOpenGL.dir/src/main.cpp.o: /home/mi/Documents/GitHub/learnopengl
 
 /usr/include/c++/14/bits/alloc_traits.h:
 
+/usr/include/bits/floatn-common.h:
+
 /usr/lib/clang/18/include/__stddef_nullptr_t.h:
 
 /usr/include/c++/14/bits/basic_ios.h:
@@ -445,8 +437,6 @@ CMakeFiles/LearnOpenGL.dir/src/main.cpp.o: /home/mi/Documents/GitHub/learnopengl
 /usr/include/c++/14/bits/predefined_ops.h:
 
 /usr/include/asm-generic/errno.h:
-
-/usr/include/GL/glext.h:
 
 /usr/include/c++/14/bits/basic_ios.tcc:
 
@@ -560,11 +550,21 @@ CMakeFiles/LearnOpenGL.dir/src/main.cpp.o: /home/mi/Documents/GitHub/learnopengl
 
 /usr/include/c++/14/iostream:
 
+/usr/lib/clang/18/include/__stddef_offsetof.h:
+
+/usr/include/c++/14/new:
+
 /usr/include/c++/14/bits/basic_string.tcc:
 
 /usr/include/c++/14/clocale:
 
 /usr/include/c++/14/ostream:
+
+/usr/include/wctype.h:
+
+/usr/include/bits/timex.h:
+
+/usr/include/bits/errno.h:
 
 /usr/include/c++/14/bits/std_abs.h:
 
@@ -611,9 +611,3 @@ CMakeFiles/LearnOpenGL.dir/src/main.cpp.o: /home/mi/Documents/GitHub/learnopengl
 /usr/include/c++/14/x86_64-redhat-linux/bits/error_constants.h:
 
 /usr/include/c++/14/x86_64-redhat-linux/bits/gthr.h:
-
-/usr/lib/clang/18/include/__stddef_offsetof.h:
-
-/usr/include/c++/14/new:
-
-/usr/include/GL/gl.h:
